@@ -34,4 +34,10 @@ export const DEX_ADDRESSES: { [chainId: number]: DexAddresses } = {
     wethToken: '0x544b4d800EA1A57571C69305368f15F4140A582c',
     ammExchange: '0xf7c74A86A5328D13856DD69248576F53a7e2488A'
   },
+7777777: { // zora
+    akinToken: '0x696629321C9Aa6A9a446B3447E4887169EB3e0d3',
+    wethToken: '0x739c7C73Be569fEd06621BF007bd4505Fd1F3fD8',
+    ammExchange: '0x70f4Ea0cc5D0a8f153B5808B23c712FC3C60dF99'
+  },
+
 };
