@@ -22,4 +22,4 @@ The application is deployed across five major EVM-compatible blockchains: **Base
 
 ## Project Structure
 
-The project is organized into three distinct parts for clarity and scalability:
+The project is organized into three distinct parts for clarity and scalability
